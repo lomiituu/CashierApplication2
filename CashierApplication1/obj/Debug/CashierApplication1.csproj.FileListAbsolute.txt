@@ -1,0 +1,11 @@
+C:\Users\garci\Source\Repos\CashierApplication1\CashierApplication1\bin\Debug\CashierApplication1.exe.config
+C:\Users\garci\Source\Repos\CashierApplication1\CashierApplication1\bin\Debug\CashierApplication1.exe
+C:\Users\garci\Source\Repos\CashierApplication1\CashierApplication1\bin\Debug\CashierApplication1.pdb
+C:\Users\garci\Source\Repos\CashierApplication1\CashierApplication1\obj\Debug\CashierApplication1.csproj.AssemblyReference.cache
+C:\Users\garci\Source\Repos\CashierApplication1\CashierApplication1\obj\Debug\CashierApplication1.frmLoginAccount.resources
+C:\Users\garci\Source\Repos\CashierApplication1\CashierApplication1\obj\Debug\CashierApplication1.frmPurchaseDiscountedItem.resources
+C:\Users\garci\Source\Repos\CashierApplication1\CashierApplication1\obj\Debug\CashierApplication1.Properties.Resources.resources
+C:\Users\garci\Source\Repos\CashierApplication1\CashierApplication1\obj\Debug\CashierApplication1.csproj.GenerateResource.cache
+C:\Users\garci\Source\Repos\CashierApplication1\CashierApplication1\obj\Debug\CashierApplication1.csproj.CoreCompileInputs.cache
+C:\Users\garci\Source\Repos\CashierApplication1\CashierApplication1\obj\Debug\CashierApplication1.exe
+C:\Users\garci\Source\Repos\CashierApplication1\CashierApplication1\obj\Debug\CashierApplication1.pdb
